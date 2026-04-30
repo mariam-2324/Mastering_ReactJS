@@ -1,0 +1,27 @@
+.cond{
+    color: chocolate;
+    font-weight: bolder;
+}
+
+/* IN THIS CSS FILE CONDITIONAL RENDERING CAN ALSO BE APPLIED. */
+
+.show{
+    display: block;
+
+}
+.hide{
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
