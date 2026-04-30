@@ -118,7 +118,7 @@ dispatch(decrement());
 * Smooth hover animations and gradients 🌈
 
 ---
-
+![Counter App](https://raw.githubusercontent.com/mariam-2324/Mastering_ReactJS/main/first-project/src/Redux-CounterApp/counterApp.png)
 
 ## 🔄 Data Flow Summary
 
