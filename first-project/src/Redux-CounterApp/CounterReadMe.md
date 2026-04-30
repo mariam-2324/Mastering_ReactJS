@@ -119,6 +119,8 @@ dispatch(decrement());
 
 ---
 
+![Counter App](./public/counterApp.png)
+
 ## 🔄 Data Flow Summary
 
 1. User clicks a button ➡️
