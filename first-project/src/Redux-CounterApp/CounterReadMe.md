@@ -118,10 +118,6 @@ dispatch(decrement());
 * Smooth hover animations and gradients 🌈
 
 ---
-<div><img src="C:\Users\PCS\Documents\GitHub\React-Projects\first-project\src\Redux-CounterApp\counterApp.png></div>
-![Counter App](./public/counterApp.png)
-
----
 
 
 ## 🔄 Data Flow Summary
